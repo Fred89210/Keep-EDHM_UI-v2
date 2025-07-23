@@ -10,7 +10,7 @@ def log(msg):
     print(f"[INFO] {msg}")
 
 def error(msg):
-    print(f"[ERREUR] {msg}")
+    print(f"[ERROR] {msg}")
     input("Press Enter to exit...")
     sys.exit(1)
 
@@ -69,6 +69,7 @@ def main():
         run_as_admin()
 
     kill_process("EDHM_UI_mk2.exe")
+    kill_process("EDHM_UI_Patcher.exe")
 
     log("Starting installation...")
 

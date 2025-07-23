@@ -1,19 +1,34 @@
 # Keep EDHM_UI v2
 
-If you want to keep [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) v2 while waiting for [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) v3 to become more stable, but you still want to use the latest version of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey), this script is for you.
+You want to keep [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) v2 while waiting for [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) v3 to become more stable but you still want to use the latest version of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey), this script is for you.
 
-This script automatically replaces certain files in [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) v2 so that it installs and runs with the latest version of EDHM.
+This script automatically replaces certain files in EDHM_UI v2 so that it installs and runs with the latest version of EDHM.
+
+Additionally, this script replaces the EDHM_UI update mechanism, so EDHM_UI v2 will no longer prompt you to install the update to v3. If you later wish to upgrade to v3, download the installer from the [EDHM_UI Github](https://github.com/BlueMystical/EDHM_UI).
+
+With this change, if a script update becomes available, EDHM_UI will prompt you to update with the usual popup. Accept the update, and you're done.
+
+I will release updates at the same time as I release new versions of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey), as long as I feel v2 is still useful.
+
+Updates made using this script will:
+- Add the latest version of EDHM
+- Add/modify/remove EDHM options *(as needed)*
+- Add new ships to the EDHM_UI Shipyard
+
+These updates will not fix user interface issues or make changes other than EDHM options, as the EDHM_UI application will remain at version 2.2.67.
 
 ---
 
 - **Close the game**.
-- Install [EDHM_UI v2.2.67](https://github.com/BlueMystical/EDHM_UI/releases/tag/v2.2.67) if it hasn't already
+- Install [EDHM_UI v2.2.67](https://github.com/BlueMystical/EDHM_UI/releases/tag/v2.2.67) *(if it hasn't already)*
 - Run the [latest version of the script](https://github.com/Fred89210/Keep-EDHM_UI-v2/releases)
 
-If all goes as expected, the script will start [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) when it finishes, and [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) will install the new version of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
+If all goes as expected, the script will start [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) when it finishes, and EDHM_UI will install the new version of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
 
 This script has been designed and tested only on Windows 10/11.
 
 ---
+
+I've been developing EDHM since 2023 but I'm not a developer, I'm just trying to do my best so please bear with me.
 
 More information about [EDHM here](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
