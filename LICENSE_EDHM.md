@@ -58,7 +58,21 @@ Code originally written by `psychicEgg` remains his property and is not covered 
 
 ---
 
-## 5. Disclaimer
+## 6. Rights of Frontier Developments
+
+Elite Dangerous and all associated assets are the intellectual property of
+**Frontier Developments plc**.
+
+This project (EDHM) is a fan-made modification. All rights of Frontier
+Developments plc take precedence over the rights asserted in this license.
+
+In particular, if Frontier Developments plc requests the removal, restriction,
+or alteration of this project or its distribution, such request shall override
+any permissions otherwise granted by this license.
+
+---
+
+## 7. Disclaimer
 
 EDHM is a community-created mod for the game **Elite Dangerous**, which is the property of **Frontier Developments plc**.
 
