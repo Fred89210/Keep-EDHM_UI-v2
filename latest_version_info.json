@@ -1,11 +1,11 @@
 {
-   "app_version":    "2.3.0.0",
+   "app_version":    "2.3.0.1",
    "last_installer": "2.2.67.0",
-   "ED_Odissey":     "20.08", 
+   "ED_Odissey":     "21.00", 
    "ED_Horizons":    "1.52.3.0", 
    "download_url": "https://github.com/Fred89210/Keep-EDHM_UI-v2/raw/main/ui_update.zip",
    "install_url": "https://github.com/Fred89210/Keep-EDHM_UI-v2/releases/latest/download/Keep_EDHM_UI_v2.exe",
-   "changelog": "\n- EDHM v20.08 for FDev Update 4.1.3.0",
+   "changelog": "\n- EDHM v21.00 for FDev Update 4.2.0.2\n- NEW: New Squadron Menu Color Mode (Cyan Elite Default or XML)\n- NEW: The HoloMe Menu is now modded and therefore takes on the XML Color",
    "notification": "",
    "re_install": false,
    "run_hotfix": true

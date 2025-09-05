@@ -29,6 +29,14 @@ This script has been designed and tested only on Windows 10/11.
 
 ---
 
+NOTE:
+
+Since translations have been left out of the original project for a very long time, languages other than English show poor results.
+
+For simplicity, I'm only maintaining English, so **I recommend using the app in English**.
+
+---
+
 I've been developing EDHM since 2023 but I'm not a developer, I'm just trying to do my best so please bear with me.
 
 More information about [EDHM here](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
