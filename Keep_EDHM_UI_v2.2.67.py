@@ -96,7 +96,7 @@ def main():
 
     launch_exe(exe_path)
 
-    log("➡️ EDHM v21.00 has been added.")
+    log("➡️ EDHM v21.01 has been added.")
     input("\nYou can close this window.")
 
 if __name__ == "__main__":
