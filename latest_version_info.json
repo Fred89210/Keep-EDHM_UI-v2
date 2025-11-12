@@ -1,11 +1,11 @@
 {
-   "app_version":    "2.3.0.3",
+   "app_version":    "2.3.0.4",
    "last_installer": "2.2.67.0",
-   "ED_Odissey":     "21.02", 
+   "ED_Odissey":     "21.03", 
    "ED_Horizons":    "1.52.3.0", 
    "download_url": "https://github.com/Fred89210/Keep-EDHM_UI-v2/raw/main/ui_update.zip",
    "install_url": "https://github.com/Fred89210/Keep-EDHM_UI-v2/releases/latest/download/Keep_EDHM_UI_v2.exe",
-   "changelog": "\n- EDHM v21.02 for FDev Update 4.2.1.0\n- Various fixes, see the EDHM Github for details",
+   "changelog": "\n- EDHM v21.03 for FDev Update 4.2.2.0\n- Various fixes, see the EDHM Github for details",
    "notification": "",
    "re_install": false,
    "run_hotfix": true
