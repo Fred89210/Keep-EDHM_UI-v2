@@ -37,6 +37,18 @@ For simplicity, I'm only maintaining English, so **I recommend using the app in 
 
 ---
 
+### <ins>Troubleshooting</ins>
+
+If you used EDHM_UI v3, you may encounter the following error message in EDHM_UI v2:
+
+```String was not recognized as a valid DateTime. at System.DateTime.ParseExact(String s, String format, IFormatProvider provider) at EDHM_UI_mk2.MainForm.History_LoadElements(Int32 ItemsToLoad) in G:\@Proyectos\EDHM_UI\source\EDHM_UI_mk2\MainForm.cs:line 3151``` 
+
+This is caused by the presence of EDHM_UI v3 history files. These files do not use the same format as EDHM_UI v2, which prevents v2 from reading them.
+
+To solve the problem, simply go to the folder `%USERPROFILE%\EDHM_UI\ODYSS\History` and delete the files with a name like `20251006T090148520Z` *(or even delete all the contents of this folder if you do not need to keep your history)*.
+
+---
+
 I've been developing EDHM since 2023 but I'm not a developer, I'm just trying to do my best so please bear with me.
 
 More information about [EDHM here](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
