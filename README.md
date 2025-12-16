@@ -29,9 +29,9 @@ If you decide to use EDHM_UI v3, the next time you try to open EDHM_UI v2, it wi
 Patch installation for EDHM_UI v2:
 - **Close the game**
 - Install [EDHM_UI v2.2.67](https://github.com/BlueMystical/EDHM_UI/releases/tag/v2.2.67) *(if it hasn't already)*
-- Run the [latest version of the script](https://github.com/Fred89210/Keep-EDHM_UI-v2/releases)
+- Download and Run the [latest version of `Keep_EDHM_UI_v2.exe`](https://github.com/Fred89210/Keep-EDHM_UI-v2/releases)
 
-If all goes as expected, the script will start [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) when it finishes, and EDHM_UI will install automatically the new version of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
+If all goes as expected, the patch will start [EDHM_UI](https://github.com/BlueMystical/EDHM_UI) when it finishes, and EDHM_UI will install automatically the new version of [EDHM](https://github.com/psychicEgg/EDHM/tree/main/Odyssey).
 
 This script has been designed and tested only on Windows 10/11.
 
@@ -54,7 +54,7 @@ If you used EDHM_UI v3, you may encounter the following error message in EDHM_UI
 This is caused by the presence of EDHM_UI v3 history files. These files do not use the same format as EDHM_UI v2 but are located in the same directory, which prevents v2 from reading them.
 
 <ins>There are two ways to solve this problem:</ins>
-- Use the `Clean_v3_History.exe` script available [here](https://github.com/Fred89210/Keep-EDHM_UI-v2/releases), this will move the EDHM_UI v3 history files into a `save_v3_history` subfolder within the `History` folder of EDHM_UI.
+- Use the `v3_History_Cleaner.exe` script available [here](https://github.com/Fred89210/Keep-EDHM_UI-v2/releases), this will move the EDHM_UI v3 history files into a `save_v3_history` subfolder within the `History` folder of EDHM_UI.
 - Alternately, simply go to the folder `%USERPROFILE%\EDHM_UI\ODYSS\History` and delete the files with a name like `20251006T090148520Z` *(or even delete all the contents of this folder if you do not need to keep your history)*.
 
 **NOTE:**
