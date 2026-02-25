@@ -1,11 +1,11 @@
 {
-   "app_version":    "2.3.0.8",
+   "app_version":    "2.3.0.9",
    "last_installer": "2.2.67.0",
-   "ED_Odissey":     "21.07", 
+   "ED_Odissey":     "21.08", 
    "ED_Horizons":    "1.52.3.0", 
    "download_url": "https://github.com/Fred89210/Keep-EDHM_UI-v2/raw/main/ui_update.zip",
    "install_url": "https://github.com/Fred89210/Keep-EDHM_UI-v2/releases/latest/download/Keep_EDHM_UI_v2.exe",
-   "changelog": "\r\n- EDHM v21.07 for FDev Update 4.3.0.1\r\n- Various fixes, see the EDHM Github for details",
+   "changelog": "\r\n- EDHM v21.08 for FDev Update 4.3.1.0\r\n- Various fixes, see the EDHM Github for details\r\n-Add Krestel MKII to the Shipyard",
    "notification": "",
    "re_install": false,
    "run_hotfix": true
